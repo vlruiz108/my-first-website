@@ -1,4 +1,3 @@
-![GitHub](https://img.shields.io/github/license/vlruiz108/my-first-website)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Vanessa22607274?label=Seguir&style=social)
 # my-first-website
 Site desenvolvido em aula do programa {Reprorama} front end, criação de site pessoal.

@@ -11,7 +11,8 @@ Veja mais sobre mim
 Veja meu CV
 Acesso ao perfil Facebook
 Acesso ao perfil Twitter 
-Acesso ao perfil Linkedin
+Acesso ao perfil Linkedin</b>
+
 :diamond_shape_with_a_dot_inside: Framework para construção
 Html, Css, Netlify e IDE Visual Studio Code.
 

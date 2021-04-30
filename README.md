@@ -3,7 +3,7 @@
 # my-first-website
 Site desenvolvido em aula do programa {Reprorama} front end, criação de site pessoal.
 
-Projeto está rodando no Netlify: https://app.netlify.com/sites/vanessa-ruiz/overview
+Projeto está rodando no Netlify: https://vanessa-ruiz.netlify.app/
 
 :white_check_mark: Testes Acesso os links:
 CPF valido

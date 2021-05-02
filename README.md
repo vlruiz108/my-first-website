@@ -1,6 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/vlruiz108/my-first-website?style=plastic)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Vanessa22607274?label=Seguir&style=social)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1b3bfb17-85b1-4015-97f3-3844c5f08a08/deploy-status)](https://app.netlify.com/sites/vanessa-ruiz-es/deploys)
 # my-first-website
 Site desenvolvido em aula do programa {Reprorama} front end, criação de site pessoal.
 
